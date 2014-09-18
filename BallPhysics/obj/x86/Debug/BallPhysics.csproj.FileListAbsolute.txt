@@ -1,0 +1,16 @@
+c:\users\administrator\documents\visual studio 2010\Projects\BallPhysics\BallPhysics\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\BallPhysics\BallPhysics\obj\x86\Debug\BallPhysics.MainFrame.resources
+c:\users\administrator\documents\visual studio 2010\Projects\BallPhysics\BallPhysics\obj\x86\Debug\BallPhysics.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\BallPhysics\BallPhysics\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\BallPhysics\BallPhysics\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\BallPhysics\BallPhysics\bin\Debug\BallPhysics.exe
+c:\users\administrator\documents\visual studio 2010\Projects\BallPhysics\BallPhysics\bin\Debug\BallPhysics.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\BallPhysics\BallPhysics\obj\x86\Debug\BallPhysics.exe
+c:\users\administrator\documents\visual studio 2010\Projects\BallPhysics\BallPhysics\obj\x86\Debug\BallPhysics.pdb
+C:\Users\rado\Documents\Visual Studio 2010\Projects\BallPhysics\BallPhysics\obj\x86\Debug\BallPhysics.exe
+C:\Users\rado\Documents\Visual Studio 2010\Projects\BallPhysics\BallPhysics\obj\x86\Debug\BallPhysics.pdb
+C:\Users\rado\Documents\Visual Studio 2010\Projects\BallPhysics\BallPhysics\bin\Debug\BallPhysics.exe
+C:\Users\rado\Documents\Visual Studio 2010\Projects\BallPhysics\BallPhysics\bin\Debug\BallPhysics.pdb
+C:\Users\rado\Documents\Visual Studio 2010\Projects\BallPhysics\BallPhysics\obj\x86\Debug\BallPhysics.MainFrame.resources
+C:\Users\rado\Documents\Visual Studio 2010\Projects\BallPhysics\BallPhysics\obj\x86\Debug\BallPhysics.Properties.Resources.resources
+C:\Users\rado\Documents\Visual Studio 2010\Projects\BallPhysics\BallPhysics\obj\x86\Debug\BallPhysics.csproj.GenerateResource.Cache
